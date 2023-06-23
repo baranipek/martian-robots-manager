@@ -99,7 +99,7 @@ If you want test manually exceptional case , update input file in application pr
 
 Used Spring boot to expose following endpoints;
 
-/move-robots
+http://localhost:8080/move-robots
 ```aidl
 Sample Input
 5 3
