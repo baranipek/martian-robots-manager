@@ -85,8 +85,11 @@ LLFFFLFLFL
 ```
 
 #### Solution
-Run the commands below in the main root of the project and make sure mvn and java is installed to on your computer  
 
+Clone the application
+https://github.com/baranipek/martian-robots-manager.git
+
+Run the commands below in the main root of the project and make sure mvn and java is installed to on your computer  
 
 ```aidl
 mvn clean install 
