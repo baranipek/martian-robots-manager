@@ -85,9 +85,8 @@ LLFFFLFLFL
 ```
 
 #### Solution
-Run the commands in order 
+Run the commands below in the main root of the project and make sure mvn and java is installed to on your computer  
 
-mvn clean install 
 
 ```aidl
 mvn clean install 
@@ -97,9 +96,9 @@ mvn spring-boot:run
 ```
 If you want test manually exceptional case , update input file in application properties. 
 
-Used Spring boot to expose following endpoints;
+Used Spring boot to expose following endpoints; go to http://localhost:8080/move-robots
 
-http://localhost:8080/move-robots
+
 ```aidl
 Sample Input
 5 3
